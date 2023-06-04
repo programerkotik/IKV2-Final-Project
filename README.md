@@ -1,2 +1,11 @@
 # IKV2-Final-Project
-Analysis of the neural simulation data from NEST Simulator. The following analysis is part of solution for the semestral project for Informatics and Cognitive Science II from Faculty of Math and Physics of Charles University in Prague.
+This repository contains code for analyzing and visualizing the network activity of STN (subthalamic nucleus) and GPe (globus pallidus external) populations.
+
+## Requirements
+
+Requirements are specified in the requirements.yml file. To install them, run:
+
+```shell
+conda env create -f requirements.yml
+```
+
